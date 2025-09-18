@@ -1,1 +1,6 @@
-/.metadata/
+#class compiles
+*.class
+
+#repertoire des classes compiles
+/bin/out
+/out/
